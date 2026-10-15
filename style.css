@@ -9,7 +9,7 @@
 
 /*stilizim body e rendesishme ketu tek imazhi i bekgraundit te vendoset no repeat te mos shfaqet i perseritur */
 body{
-    background: url (pic1.jpg) no-repeat;
+    background: url ("pic1.jpg") no-repeat;
     display: flex;
     justify-content: center;
     align-items: center;
